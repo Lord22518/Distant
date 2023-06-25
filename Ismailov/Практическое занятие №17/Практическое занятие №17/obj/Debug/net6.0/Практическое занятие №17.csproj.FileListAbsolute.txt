@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\Практическое занятие №17.exe
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\Практическое занятие №17.deps.json
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\Практическое занятие №17.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\Практическое занятие №17.dll
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\ref\Практическое занятие №17.dll
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\bin\Debug\net6.0\Практическое занятие №17.pdb
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.dll
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\ref\Практическое занятие №17.dll
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.pdb
+C:\Users\Пользователь\source\repos\Практическое занятие №17\Практическое занятие №17\obj\Debug\net6.0\Практическое занятие №17.genruntimeconfig.cache

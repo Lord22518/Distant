@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\строки\строки\bin\Debug\строки.exe.config
+C:\Users\Пользователь\source\repos\строки\строки\bin\Debug\строки.exe
+C:\Users\Пользователь\source\repos\строки\строки\bin\Debug\строки.pdb
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.Form1.resources
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.exe
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.pdb
+C:\Users\Пользователь\source\repos\строки\строки\obj\Debug\строки.Form2.resources

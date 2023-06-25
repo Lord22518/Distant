@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\bin\Debug\Листинг 10.exe.config
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\bin\Debug\Листинг 10.exe
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\bin\Debug\Листинг 10.pdb
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг_10.Form1.resources
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг_10.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.exe
+C:\Users\Пользователь\source\repos\Листинг 10\Листинг 10\obj\Debug\Листинг 10.pdb

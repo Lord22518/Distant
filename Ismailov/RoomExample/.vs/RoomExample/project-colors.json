@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08e0bafe-31b8-4eb2-b441-88d7429ccc8a": {
+      "ProjectGuid": "08e0bafe-31b8-4eb2-b441-88d7429ccc8a",
+      "DisplayName": "RoomExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
